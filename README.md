@@ -19,10 +19,4 @@ Effortlessly find products by browsing through specific categories. Whether you'
 ## Architecture
 
 ### UML Diagram
-![UML Diagram](Diagrama backend.png)
-
-### Package Diagram
-![Package Diagram](url/to/package_diagram.png)
-
-### Purchase Flow Diagram
-![Purchase Flow Diagram](url/to/purchase_flow_diagram.png)
+![Backend Diagram](https://github.com/jazielrs/online-geek-store/raw/master/Diagrama backend.png)
