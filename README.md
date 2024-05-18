@@ -22,5 +22,7 @@ Effortlessly find products by browsing through specific categories. Whether you'
 ![Backend Diagram](https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/backend.png)
 
 ### Package Diagram
+![Package Diagram](https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/package.png)
 
 ### Purchase Flow Diagram
+![Backend Diagram](https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/purchaseFlow.png)
