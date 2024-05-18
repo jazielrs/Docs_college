@@ -19,4 +19,4 @@ Effortlessly find products by browsing through specific categories. Whether you'
 ## Architecture
 
 ### UML Diagram
-![Backend Diagram](https://github.com/jazielrs/online-geek-store/raw/master/Diagrama backend.png)
+![Backend Diagram](https://github.com/jazielrs/online-geek-store/raw/master/backend.png)
