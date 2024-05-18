@@ -19,7 +19,7 @@ Effortlessly find products by browsing through specific categories. Whether you'
 ## Architecture
 
 ### UML Diagram
-![UML Diagram](url/to/uml_diagram.png)
+![UML Diagram](Diagrama backend.png)
 
 ### Package Diagram
 ![Package Diagram](url/to/package_diagram.png)
