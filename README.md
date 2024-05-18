@@ -15,3 +15,14 @@ Stay informed about the store's performance with weekly sales reports. These rep
 
 ### 4. Category Search
 Effortlessly find products by browsing through specific categories. Whether you're looking for smartphones, laptops, or accessories, our category search functionality simplifies the shopping process.
+
+## Architecture
+
+### UML Diagram
+![UML Diagram](url/to/uml_diagram.png)
+
+### Package Diagram
+![Package Diagram](url/to/package_diagram.png)
+
+### Purchase Flow Diagram
+![Purchase Flow Diagram](url/to/purchase_flow_diagram.png)
