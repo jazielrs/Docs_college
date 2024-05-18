@@ -16,7 +16,7 @@ Stay informed about the store's performance with weekly sales reports. These rep
 ### 4. Category Search
 Effortlessly find products by browsing through specific categories. Whether you're looking for smartphones, laptops, or accessories, our category search functionality simplifies the shopping process.
 
-##WebApp Architecture
+## WebApp Architecture
 
 ### UML Diagram
 ![Backend Diagram](https://raw.githubusercontent.com/jazielrs/Pagina_compra/master/backend.png)
